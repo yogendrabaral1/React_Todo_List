@@ -1,0 +1,23 @@
+.todoList {
+    margin: 20px;
+}
+
+.list {
+    padding: 0;
+}
+
+.list li {
+    text-align: left;
+    list-style-type: none;
+    padding: 10px;
+    margin: 5px;
+    background-color: rgba(219, 215, 211, 0.808);
+}
+
+.checkBox {
+    padding-right: 10px;
+}
+
+.clearBtn {
+    padding: 10px;
+}
